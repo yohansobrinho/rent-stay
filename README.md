@@ -1,0 +1,2 @@
+# rent-stay
+Nuxt webpages
